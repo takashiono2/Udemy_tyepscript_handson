@@ -1,0 +1,5 @@
+/node_modules
+/src/images
+.DS_store
+/dist/images
+/dist

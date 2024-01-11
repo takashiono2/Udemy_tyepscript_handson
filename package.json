@@ -1,0 +1,23 @@
+{
+  "name": "udemy_typescript_handson",
+  "version": "1.0.0",
+  "description": "<details> <summary> セクション4: 環境構築 - Node パッケージ編 </summary>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashiono2/Udemy_typescript_handson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takashiono2/Udemy_typescript_handson/issues"
+  },
+  "homepage": "https://github.com/takashiono2/Udemy_typescript_handson#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
