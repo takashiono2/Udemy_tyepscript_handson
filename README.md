@@ -24,11 +24,11 @@
 
 | NO | 内容 |boolean型
 | ---- | ---- |
-<!-- | 14. | boolean型 |
+| 14. | boolean型 |
 | 15. | number型、string型 |
 | 16. | array型 |
 | 17. | tuple型 |
-| 18. | any型 |
+<!-- | 18. | any型 |
 | 19. | void型 |
 | 20. | null型とundefined型 |
 | 21. | never型 |
