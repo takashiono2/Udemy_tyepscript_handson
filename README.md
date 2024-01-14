@@ -28,7 +28,7 @@
 | 15. | number型、string型 |
 | 16. | array型 |
 | 17. | tuple型 |
-<!-- | 18. | any型 |
+| 18. | any型 |
 | 19. | void型 |
 | 20. | null型とundefined型 |
 | 21. | never型 |
@@ -40,7 +40,7 @@
 | 27. | 交差型(intersection型) |
 | 28. | 共用体型(union型) |
 | 29. | Literal型 |
-| 30. | 列挙型(enum型) | -->
+| 30. | 列挙型(enum型) |
 
 </details>
 
