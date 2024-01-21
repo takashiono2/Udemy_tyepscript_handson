@@ -79,12 +79,31 @@
 
 | NO | 内容 |
 | ---- | ---- |
-<!-- | 48. | 型の互換性 |
+| 48. | 型の互換性 |
 | 49. | ジェネリクス |
 | 50. | 型アサーション |
 | 51. | constアサーション |
 | 52. | Nullable Types |
-| 53. | インデックスシグネチャ | -->
+| 53. | インデックスシグネチャ |
+
+</details>
+<details>
+<summary> セクション10: Utility TypesとConditional Typesについて学ぼう </summary>
+
+| NO | 内容 |
+| ---- | ---- |
+<!-- | 54. | Utility TypesとConditional Typesをなぜ学ぶのか |
+| 55. | PartialとRequired |
+| 56. | Mapped Types |
+| 57. | Readonly |
+| 58. | Record |
+| 59. | Exclude と Exract と NunNullableについて |
+| 60. | Conditional Types と Distributive Conditional Types についてマスターしよう |
+| 61. | Pick と Omit |
+| 62. | ReturnType |
+| 63. | Conditional Typesで使用されるinferキーワードについて |
+| 64. | Parameters |
+| 65. | ConstructorParameters | -->
 
 </details>
 
