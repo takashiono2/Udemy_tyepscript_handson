@@ -99,8 +99,8 @@
 | 58. | Record |
 | 59. | Exclude と Exract と NunNullableについて |
 | 60. | Conditional Types と Distributive Conditional Types についてマスターしよう |
-<!-- | 61. | Pick と Omit |
-| 62. | ReturnType |
+| 61. | Pick と Omit |
+<!-- | 62. | ReturnType |
 | 63. | Conditional Typesで使用されるinferキーワードについて |
 | 64. | Parameters |
 | 65. | ConstructorParameters | -->
