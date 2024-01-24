@@ -101,8 +101,8 @@
 | 60. | Conditional Types と Distributive Conditional Types についてマスターしよう |
 | 61. | Pick と Omit |
 | 62. | ReturnType |
-<!-- | 63. | Conditional Typesで使用されるinferキーワードについて |
-| 64. | Parameters |
+| 63. | Conditional Typesで使用されるinferキーワードについて |
+<!-- | 64. | Parameters |
 | 65. | ConstructorParameters | -->
 
 </details>
