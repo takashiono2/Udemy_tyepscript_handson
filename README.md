@@ -102,8 +102,8 @@
 | 61. | Pick と Omit |
 | 62. | ReturnType |
 | 63. | Conditional Typesで使用されるinferキーワードについて |
-<!-- | 64. | Parameters |
-| 65. | ConstructorParameters | -->
+| 64. | Parameters |
+<!-- | 65. | ConstructorParameters | -->
 
 </details>
 <details>
