@@ -111,7 +111,7 @@
 
 | NO | 内容 |
 | ---- | ---- |
-<!-- | 66. | Reactの紹介、なぜReactを学ぶのか |
+| 66. | Reactの紹介、なぜReactを学ぶのか |
 | 67. | GitHubでリポジトリを作成しよう |
 | 68. | Function Components 入門編 |
 | 69. | Function Components 初級編 |
@@ -119,7 +119,7 @@
 | 71. | useRefとuseEffectを使ってみよう |
 | 72. | useRefのより実践的な使い方とOptional ChainingとNon-Null Assertion Operatorの紹介 |
 | 73. | useReducerとオーバーロードを用いたその型定義について |
-| 74. | useReducerの利用例 | -->
+| 74. | useReducerの利用例 |
 
 </details>
 
